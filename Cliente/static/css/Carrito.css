@@ -1,0 +1,45 @@
+.logo img{
+    left: 20px; 
+    position: absolute;
+    height: 45px;
+    width: auto;
+}
+
+h1{
+    margin: 0; 
+    text-align: center; 
+    width: 100%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header {
+    background-color: #333; 
+    color: #fff; 
+    padding: 20px;
+    display: flex; 
+    position: relative;
+}
+.card{
+    border: #333;
+
+}
+img{
+    width: auto;
+    height: auto;
+    padding: auto;
+}
+
+td{
+    border: 4px solid #e4e7eb; 
+    padding: 20px; 
+    border-radius: 10px;
+
+}
+.total{
+    border: 4px solid #e4e7eb; 
+    padding: 5px; 
+    border-radius: 10px; 
+}
+p{
+    line-height: 100%;
+}
